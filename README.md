@@ -7,7 +7,7 @@ and can be customized using a web application.
 Morpheus consists of a server side application and a client side app. For the server side
 an Oracle runtime environment must be available. 
 
-- download and install app from here
+- build app using the code provided under app folder
 - create an Oracle schema with privileges to create session, table, sequence and procedure
   and with quota on the default tablespace
 - install de database objects by running install_db.sql in this schema
